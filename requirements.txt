@@ -1,0 +1,8 @@
+h5py>=3.9.0
+numpy>=1.22.2
+opencv_contrib_python>=4.8.1.78
+opencv_python>=4.8.1.78
+segmentation_models_pytorch>=0.3.3
+timm>=0.9.8
+torch>=2.1.0
+tqdm>=4.65.2
